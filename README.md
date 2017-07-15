@@ -1,6 +1,8 @@
 # StatusBossBar
 StatusBossBar с сервера ViGladio's
 
+Требуется BossBarAPI!!
+
 Поддерживает PurePerms и EconomyAPI
 
 Шкала заполняется пропорционально онлайну
