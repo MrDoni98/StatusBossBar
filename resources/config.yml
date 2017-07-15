@@ -1,0 +1,8 @@
+#{name} - имя игрока
+#{group} - группа игрока PurePerms
+#{money} - деньги игрока EconomyAPI
+#{online} - кол-во игроков онлайн
+#{max_online} - максимальное кол-во игроков сервера
+#Нужно больше? пиши мне vk.com/mrdoni98
+#Специально для https://vk.com/plugplus
+text: "§l§cMoney: §e{money}$ §a| §6Online: §8[§a{online}§7/§c{max_online}§8]§r"
